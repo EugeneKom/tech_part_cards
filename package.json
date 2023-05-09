@@ -1,5 +1,6 @@
 {
   "name": "tech_part_cards",
+  "homepage": "https://eugenekom.github.io/tech_part_cards",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
